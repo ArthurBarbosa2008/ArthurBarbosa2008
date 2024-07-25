@@ -21,6 +21,5 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://instagram.com/arthurbarbosapdv/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-  <a href="https://instagram.com/arthurbarbosapdv/" title="Discord">
-  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white</a>
+
   
