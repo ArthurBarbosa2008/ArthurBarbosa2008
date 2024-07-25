@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, Eu sou Arthur Barbosa!
 
-<!--
-**ArthurBarbosa2008/ArthurBarbosa2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Fazendo curso de desenvolvimento de sistemas do senai
+- 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
+- 🔥 Estudando portugol
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+  <img src= "https://cdn.custom-cursor.com/cursors/chrome_dino_t-rex_455.png" max-width="200px" width="200px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![ArthurBarbosa2008 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarbosa2008&show_icons=true&theme=dracula)
+
+ ## 🏆 Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  ## ☎️ Meios de contato
+  <a href="mailto:arthur.midiapdv@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://instagram.com/arthurbarbosapdv/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://instagram.com/arthurbarbosapdv/" title="Discord">
+  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white</a>
+  
