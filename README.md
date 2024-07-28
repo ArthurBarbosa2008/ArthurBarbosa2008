@@ -1,4 +1,4 @@
-# Olá, Eu sou Arthur Barbosa!
+# Olá, Eu sou o Arthur Barbosa!
 
 - 🚀 Fazendo curso de desenvolvimento de sistemas do senai
 - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
