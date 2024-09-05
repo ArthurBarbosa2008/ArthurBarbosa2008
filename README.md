@@ -2,7 +2,7 @@
 
 - 🚀 Fazendo curso de desenvolvimento de sistemas do senai
 - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
-- 🔥 Estudando portugol
+- 🔥 Estudando pyhton
 - 😄 Pronouns: ele/dele
 
   <img src= "https://cdn.custom-cursor.com/cursors/chrome_dino_t-rex_455.png" max-width="200px" width="200px" align="right">
