@@ -5,7 +5,7 @@
 - 🔥 Estudando pyhton
 - 😄 Pronouns: ele/dele
 
-  <img src= "https://cdn.custom-cursor.com/cursors/chrome_dino_t-rex_455.png" max-width="200px" width="200px" align="right">
+  <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width="200px" width="200px" align="right">
 
   ![ArthurBarbosa2008 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarbosa2008&show_icons=true&theme=dracula)
 
