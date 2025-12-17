@@ -2,7 +2,7 @@
 
 - 🚀 Fazendo curso de desenvolvimento de sistemas do senai
 - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
-- 🔥 Estudando php
+- 🔥 Estudando React
 - 😄 Pronouns: ele/dele
 
   <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width="200px" width="200px" align="right">
@@ -15,6 +15,7 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Arthur-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 
   ## ☎️ Meios de contato
   <a href="mailto:arthur.midiapdv@gmail.com" title="Gmail">
