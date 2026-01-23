@@ -1,7 +1,6 @@
-- 🚀 Fazendo curso de desenvolvimento de sistemas do senai
+- 🚀 Prester a cursar licenciatura em computação
 - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
-- 🔥 Estudando portugol
-- 🔥 Estudando pyhton
+- 🔥 Estudando React
 - 😄 Pronouns: ele/dele
 
   <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width="200px" width="200px" align="right">
