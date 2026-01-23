@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
- <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width:100px align="right">
+ <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" width:100px align="right">
 </div>
 
  ## 🏆 Tecnologias
