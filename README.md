@@ -1,5 +1,6 @@
 # Olá, Eu sou o Arthur Barbosa!
-<div>
+<div style="display: inline_block">
+ <div style="display: flex; flex_direction: column">
  - 🚀 Fazendo curso de desenvolvimento de sistemas do senai
  - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
  - 🔥 Estudando React
