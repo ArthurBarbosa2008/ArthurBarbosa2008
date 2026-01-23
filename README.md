@@ -1,16 +1,12 @@
 # Olá, Eu sou o Arthur Barbosa!
-<div style="display: inline_block">
- <div style="display: flex; flex_direction: column">
- - 🚀 Fazendo curso de desenvolvimento de sistemas do senai
- - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
- - 🔥 Estudando React
- - 😄 Pronouns: ele/dele
- </div>
+- 🚀 Estudando Lienciatura em Computação
+- 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
+- 🔥 Estudando React
+- 😄 Pronouns: ele/dele
 
-
- <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" width="200px" align="right">
+<div>
+ <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width:200px align="right">
 </div>
-
 
  ## 🏆 Tecnologias
 
