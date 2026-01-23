@@ -5,7 +5,7 @@
 - 🔥 Estudando React
 - 😄 Pronouns: ele/dele
 
-  <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width="200px" width="200px" align="right">
+<img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width="200px" align="right">
 
 
  ## 🏆 Tecnologias
@@ -20,7 +20,7 @@
   ## ☎️ Meios de contato
   <a href="mailto:arthur.midiapdv@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://instagram.com/arthurbarbosapdv/" title="Instagram">
+  <a href="https://instagram.com/arthurbarbosa.dev/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 
   
