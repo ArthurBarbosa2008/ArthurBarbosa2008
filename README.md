@@ -3,10 +3,6 @@
 - 🔥 Estudando React
 - 😄 Pronouns: ele/dele
 
-  <img src= "https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" max-width="200px" width="200px" align="right">
-
-  ![ArthurBarbosa2008 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarbosa2008&show_icons=true&theme=dracula)
-
  ## 🏆 Tecnologias
 
 <div style="display: inline_block"><br>
