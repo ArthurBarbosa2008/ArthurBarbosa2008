@@ -1,4 +1,4 @@
-- 🚀 Prester a cursar licenciatura em computação
+- 🚀 Cursando licenciatura em computação
 - 👍🏼 Gosto de gatos, jogos e filmes de ficção científica
 - 🔥 Estudando React
 - 😄 Pronouns: ele/dele
@@ -14,7 +14,7 @@
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
   ## ☎️ Meios de contato
-  <a href="mailto:arthur.midiapdv@gmail.com" title="Gmail">
+  <a href="mailto:arthur.barbosa.dev.2008@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://instagram.com/arthurbarbosapdv/" title="Instagram">
+  <a href="https://instagram.com/arthurbarbosa.dev/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
